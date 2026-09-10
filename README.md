@@ -239,3 +239,6 @@ This repository serves as the official landing page for Webroot SecureAnywhere A
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Webroot SecureAnywhere AntiVirus today!**
+
+---
+**Last updated:** 2026-09-10 14:57:05 UTC
