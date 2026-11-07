@@ -241,4 +241,4 @@ This repository serves as the official landing page for Webroot SecureAnywhere A
 **Get the most recent version of Webroot SecureAnywhere AntiVirus today!**
 
 ---
-**Last updated:** 2026-11-07 08:25:09 UTC
+**Last updated:** 2026-11-07 15:28:06 UTC
